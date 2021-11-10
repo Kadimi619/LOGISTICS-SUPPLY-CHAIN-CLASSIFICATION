@@ -1,0 +1,2 @@
+# LOGISTICS-SUPPLY-CHAIN-CLASSIFICATION
+Logistics in supply chain plays a crucial role in the inventory management of the raw materials required for the operations, and a slight delay in the delivery of these goods would cost the company heavily in terms of brand value and customer satisfaction if they fail to meet their committed delivery schedule. Hence it becomes critical for any supply chain organization to proactively manage the logistics to deliver the goods on time.
